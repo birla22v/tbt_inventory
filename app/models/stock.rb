@@ -1,0 +1,37 @@
+class Stock
+  def self.all_inventory
+    {
+      1=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      2=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      3=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      4=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      5=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      6=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      7=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      8=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      9=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      10=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      11=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      12=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      13=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      14=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      15=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      16=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      17=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      18=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      19=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      20=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      21=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      22=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      23=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      24=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      25=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      26=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      27=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      28=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      29=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      30=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+      31=> {type_a: {small: 5, medium: 5, large: 5}, type_b: {small: 5, medium: 5, large: 5}},
+    }
+  end
+end
